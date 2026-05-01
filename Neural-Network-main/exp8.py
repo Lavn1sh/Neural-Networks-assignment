@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-print("===== MLP EXPERIMENT =====")
+print("==== MLP EXPERIMENT ====")
 
 # Activation
 def sigmoid(x):
