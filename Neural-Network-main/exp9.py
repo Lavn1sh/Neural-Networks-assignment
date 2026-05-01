@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-print("===== OPTIMIZER EXPERIMENT =====")
+print("==== OPTIMIZER EXPERIMENT ====")
 
 # Function (simple quadratic)
 def f(x):
