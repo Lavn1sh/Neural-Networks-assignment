@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 print("===== HOPFIELD NETWORK EXPERIMENT =====")
 
-# -------------------------------
+# --------------------------------
 # 1. DEFINE PATTERNS
 # -------------------------------
 
