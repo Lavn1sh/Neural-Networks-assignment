@@ -1,7 +1,7 @@
 from scipy import integrate, optimize, linalg
 import numpy as np
 
-print("===== SCIPY LAB EXPERIMENT =====")
+print("====== SCIPY LAB EXPERIMENT ======")
 
 # Integration
 f = lambda x: x**2 + 3*x + 2
