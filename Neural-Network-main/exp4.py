@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-print("===== MATPLOTLIB LAB EXPERIMENT =====")
+print("==== MATPLOTLIB LAB EXPERIMENT ====")
 
 # Data
 x = np.arange(1, 11)
