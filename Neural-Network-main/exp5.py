@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-print("===== PERCEPTRON LAB EXPERIMENT =====")
+print("==== PERCEPTRON LAB EXPERIMENT ====")
 
 # Activation function
 def step_function(x):
