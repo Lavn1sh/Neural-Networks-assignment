@@ -8,7 +8,7 @@ from sklearn.metrics import confusion_matrix
 
 print("===== CNN + RNN ADVANCED EXPERIMENT =====")
 
-# -------------------------------
+# --------------------------------
 # 1. DATA GENERATION (CNN)
 # -------------------------------
 
