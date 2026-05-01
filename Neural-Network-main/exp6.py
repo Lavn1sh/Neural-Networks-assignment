@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-print("===== XOR NEURAL NETWORK EXPERIMENT =====")
+print("==== XOR NEURAL NETWORK EXPERIMENT ====")
 
 # Sigmoid
 def sigmoid(x):
