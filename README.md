@@ -1,4 +1,4 @@
 Neural Networks lab assignment
-Name =  Anurag Nidhi
-Roll = 2301010174
-Course = BTech Cse c
+Name =  Lavnish Pandey 
+Roll = 2301010181
+Course = BTech Cse C
